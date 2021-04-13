@@ -1,0 +1,5 @@
+﻿  graphs.c
+C:\Users\Daniel\source\repos\proj_alg\proj_alg\graphs.c(51,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Daniel\source\repos\proj_alg\proj_alg\graphs.c(62,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Daniel\source\repos\proj_alg\proj_alg\graphs.c(107,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  proj_alg.vcxproj -> C:\Users\Daniel\source\repos\proj_alg\Debug\proj_alg.exe
